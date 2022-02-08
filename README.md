@@ -1,6 +1,5 @@
 # Material Dictionary App
-A simple and clean looking English Dictionary build using React JS and Node JS with Material UI. Uses the Oxford Dictionary API.
-Built completely on CodeSandbox.
+An English Dictionary built using React JS, Node JS and Material UI. Uses the Oxford Dictionary API.
 
 https://simple-dictionary.netlify.app/
 
